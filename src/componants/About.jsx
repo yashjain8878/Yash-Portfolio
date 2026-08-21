@@ -38,7 +38,7 @@ function About() {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-[#F1F4F6] border border-[#A3CEF1] rounded-lg p-5 hover:shadow-md transition-all duration-300">
               <div className="w-9 h-9 flex items-center justify-center mb-3">
-                <img src="./public/Icon.svg" alt="Scalable Core" />
+                <img src="/public/Icon.svg" alt="Scalable Core" />
               </div>
               <h3 className="font-bold text-[#274C77] text-sm mb-1">
                 Modern Frontend
@@ -50,7 +50,7 @@ function About() {
 
             <div className="bg-[#F1F4F6] border border-[#A3CEF1] rounded-lg p-5 hover:shadow-md transition-all duration-300">
               <div className="w-9 h-9 flex items-center justify-center mb-3">
-                <img src="./public/Icon (1).svg" alt="AI Integration" />
+                <img src="/public/Icon (1).svg" alt="AI Integration" />
               </div>
               <h3 className="font-bold text-[#274C77] text-sm mb-1">
                Reliable Backend

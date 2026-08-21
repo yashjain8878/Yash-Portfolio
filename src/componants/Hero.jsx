@@ -21,7 +21,7 @@ function Hero(){
           <div className="flex flex-wrap justify-center lg:justify-start items-center gap-4 mb-10">
             <a className=" bg-[#274C77] text-white px-5 sm:px-6 py-3 rounded-lg font-medium hover:bg-[#6096BA] cursor-pointer transition-all" type="download" href="YashResume.pdf" download>
               Download Resume
-              <img src=".Container.svg" alt="Download Icon" className="inline-block w-4 h-4 ml-2" />
+              <img src="/Container.svg" alt="Download Icon" className="inline-block w-4 h-4 ml-2" />
             </a>
 
             <a href="#projects" className="border-2 border-[#A3CEF1] px-5 sm:px-6 py-3 rounded-lg font-medium hover:bg-[#274C77] hover:text-white cursor-pointer transition-all">
