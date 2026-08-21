@@ -33,7 +33,7 @@ function Hero(){
             </a>
 
              <a href="https://www.linkedin.com/in/yash-jain-626837268/" target="blank" className="w-9 h-9 rounded-full border-2 border-[#A3CEF1] flex items-center justify-center text-[#274C77] hover:bg-[#274C77] hover:text-white transition-all duration-300">
-              <img src="LinkdinIcon.svg" alt="LinkedIn Icon" className="w-6 h-6" />
+              <img src="/LinkdinIcon.svg" alt="LinkedIn Icon" className="w-6 h-6" />
             </a>
 
           </div>
